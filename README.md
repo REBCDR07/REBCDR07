@@ -1,14 +1,8 @@
 <a href="https://www.thekof.site">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A150F,45:179B53,100:22AA7F&height=220&section=header&text=The%20KOF&fontSize=68&fontColor=F0F9F3&fontAlignY=36&desc=Elton%20Ronald%20Bill%20HOUNNOU%20%C2%B7%20Frontend%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Supabase&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="The KOF - Elton Ronald Bill HOUNNOU"/>
+  <img src="./assets/thekof-github-header.svg" width="100%" alt="The KOF - Elton Ronald Bill HOUNNOU"/>
 </a>
 
 <div align="center">
-
-<a href="https://www.thekof.site">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=1AD166&center=true&vCenter=true&width=850&lines=Je+construis+des+interfaces+React+propres%2C+rapides+et+utiles.;Frontend+Developer+%E2%80%94+Abomey-Calavi%2C+B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF;React+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Tailwind+CSS;SaaS+%C2%B7+Portfolios+%C2%B7+Dashboards+%C2%B7+Assistants+IA" alt="Typing SVG"/>
-</a>
-
-<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.thekof.site-179B53?style=for-the-badge&logo=vercel&logoColor=white)](https://www.thekof.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elton_Hounnou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton27/)
@@ -57,6 +51,10 @@ const theKof: FrontendDeveloper = {
 
 <div align="center">
 
+<img src="./assets/thekof-fonts.svg" width="100%" alt="Polices The KOF: Trench Slab, Gambarino, Kaushan Script"/>
+
+<br/><br/>
+
 | Token | Usage | Couleur |
 |:---:|:---|:---:|
 | `#0A150F` | Fond sombre du portfolio | ![#0A150F](https://placehold.co/90x24/0A150F/F0F9F3?text=+) |
@@ -64,8 +62,6 @@ const theKof: FrontendDeveloper = {
 | `#1AD166` | Vert primaire dark mode | ![#1AD166](https://placehold.co/90x24/1AD166/0A150F?text=+) |
 | `#22AA7F` | Accent interface | ![#22AA7F](https://placehold.co/90x24/22AA7F/ffffff?text=+) |
 | `#0AFF8D` | Glow neon | ![#0AFF8D](https://placehold.co/90x24/0AFF8D/0A150F?text=+) |
-
-**Direction graphique :** Trench Slab pour les grands titres, Gambarino pour les contenus, et The KOF comme signature de marque.
 
 </div>
 
@@ -119,114 +115,112 @@ const theKof: FrontendDeveloper = {
 
 <div align="center">
 
-> Interfaces web, SaaS, assistants IA, outils CLI et experiences techniques construites autour de React, TypeScript et Supabase.
+> Chaque carte embarque une image du projet, une description courte, le statut, la categorie, la stack et les liens utiles. Les visuels utilisent les polices du portfolio: Trench Slab pour les titres, Gambarino pour les textes.
 
 </div>
 
-### SaaS, IA & Produit
+<a href="https://my-africhat.vercel.app/">
+  <img src="./assets/projects/my-africhat.svg" width="100%" alt="My AfriChat"/>
+</a>
 
-<table>
-  <tr>
-    <th>Projet</th>
-    <th>Description</th>
-    <th>Stack</th>
-    <th>Liens</th>
-  </tr>
-  <tr>
-    <td><b>My AfriChat</b></td>
-    <td>Plateforme multi-tenant pour embarquer un assistant IA texte + voix sur tout site web.</td>
-    <td><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Edge Functions</code> <code>WebRTC</code></td>
-    <td><a href="https://my-africhat.vercel.app/">Demo</a></td>
-  </tr>
-  <tr>
-    <td><b>KeepBase</b></td>
-    <td>Monitoring intelligent pour garder les projets Supabase gratuits actifs 24/7.</td>
-    <td><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>pg_cron</code> <code>Recharts</code></td>
-    <td><a href="https://keep-baseai.vercel.app/">Demo</a></td>
-  </tr>
-  <tr>
-    <td><b>Vaultify</b></td>
-    <td>Recherche GitHub augmentee par IA avec scoring, synthese et selection open source.</td>
-    <td><code>React</code> <code>TypeScript</code> <code>Zustand</code> <code>GitHub API</code></td>
-    <td><a href="https://vaultify-woad.vercel.app/">Demo</a> · <a href="https://github.com/REBCDR07/vaultify-woadai">Code</a></td>
-  </tr>
-  <tr>
-    <td><b>SiteScope</b></td>
-    <td>Audit technique web: performance, SEO, accessibilite, mobile et plan d'action.</td>
-    <td><code>React</code> <code>TypeScript</code> <code>PageSpeed API</code> <code>Vercel</code></td>
-    <td><a href="https://sitesight-audit.vercel.app/">Demo</a> · <a href="https://github.com/REBCDR07/sitesight-audit">Code</a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://my-africhat.vercel.app/"><img src="https://img.shields.io/badge/Live-179B53?style=for-the-badge&logo=vercel&logoColor=white" alt="Live My AfriChat"/></a>
+</p>
 
-### Web Apps & Plateformes
+<a href="https://keep-baseai.vercel.app/">
+  <img src="./assets/projects/keepbase.svg" width="100%" alt="KeepBase"/>
+</a>
 
-<table>
-  <tr>
-    <th>Projet</th>
-    <th>Description</th>
-    <th>Stack</th>
-    <th>Liens</th>
-  </tr>
-  <tr>
-    <td><b>Portfolio The KOF</b></td>
-    <td>Portfolio personnel avec blog Markdown, dashboard admin, analytics, IA et medias Supabase.</td>
-    <td><code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Supabase</code> <code>Vercel</code></td>
-    <td><a href="https://www.thekof.site">Live</a></td>
-  </tr>
-  <tr>
-    <td><b>ESM-BENIN University</b></td>
-    <td>Site institutionnel moderne pour une ecole superieure, avec assistant d'orientation IA.</td>
-    <td><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Three.js</code></td>
-    <td><a href="https://esm-beninbj.vercel.app/">Live</a> · <a href="https://github.com/REBCDR07/esmbenin">Code</a></td>
-  </tr>
-  <tr>
-    <td><b>VoyageBj</b></td>
-    <td>SaaS de reservation de billets de transport interurbain au Benin.</td>
-    <td><code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Framer Motion</code></td>
-    <td><a href="https://voyage-bj.vercel.app/">Live</a> · <a href="https://github.com/REBCDR07/VoyageBj">Code</a></td>
-  </tr>
-  <tr>
-    <td><b>SkillFlash Academy</b></td>
-    <td>Plateforme de micro-learning avec modules courts, examens et certificats.</td>
-    <td><code>React</code> <code>TypeScript</code> <code>Markdown</code> <code>html-to-image</code></td>
-    <td><a href="https://skillflash-tau.vercel.app/">Live</a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://keep-baseai.vercel.app/"><img src="https://img.shields.io/badge/Live-179B53?style=for-the-badge&logo=vercel&logoColor=white" alt="Live KeepBase"/></a>
+</p>
 
-### Open Source, CLI & Hardware
+<a href="https://vaultify-woad.vercel.app/">
+  <img src="./assets/projects/vaultify.svg" width="100%" alt="Vaultify"/>
+</a>
 
-<table>
-  <tr>
-    <th>Projet</th>
-    <th>Description</th>
-    <th>Stack</th>
-    <th>Liens</th>
-  </tr>
-  <tr>
-    <td><b>webimg-cli</b></td>
-    <td>CLI pour optimiser, convertir et generer des images responsive pour le web.</td>
-    <td><code>TypeScript</code> <code>Sharp</code> <code>CLI</code></td>
-    <td><a href="https://github.com/REBCDR07/webimg-cli">Code</a></td>
-  </tr>
-  <tr>
-    <td><b>afritranslate-cli</b></td>
-    <td>CLI i18n qui detecte les textes utilisateurs et genere des fichiers de traduction.</td>
-    <td><code>TypeScript</code> <code>CLI</code> <code>i18n</code> <code>Google Cloud</code></td>
-    <td><a href="https://github.com/REBCDR07/afritranslate-cli">Code</a></td>
-  </tr>
-  <tr>
-    <td><b>FingerLock</b></td>
-    <td>Verrouillage automatique Linux par inactivite, clavier/souris et schema tactile.</td>
-    <td><code>Python</code> <code>tkinter</code> <code>evdev</code> <code>PyPI</code></td>
-    <td><a href="https://pypi.org/project/fingerlock/">PyPI</a> · <a href="https://github.com/REBCDR07/fingerlock">Code</a></td>
-  </tr>
-  <tr>
-    <td><b>ArduX</b></td>
-    <td>Console retro DIY sur ESP32 TTGO T-Display avec 6 jeux classiques.</td>
-    <td><code>ESP32</code> <code>C++</code> <code>Arduino</code> <code>TFT_eSPI</code></td>
-    <td><a href="https://github.com/REBCDR07/ArduX_Project">Code</a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://vaultify-woad.vercel.app/"><img src="https://img.shields.io/badge/Live-179B53?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Vaultify"/></a>
+  <a href="https://github.com/REBCDR07/vaultify-woadai"><img src="https://img.shields.io/badge/Code-17261F?style=for-the-badge&logo=github&logoColor=0AFF8D" alt="Code Vaultify"/></a>
+</p>
+
+<a href="https://sitesight-audit.vercel.app/">
+  <img src="./assets/projects/sitescope.svg" width="100%" alt="SiteScope"/>
+</a>
+
+<p align="center">
+  <a href="https://sitesight-audit.vercel.app/"><img src="https://img.shields.io/badge/Live-179B53?style=for-the-badge&logo=vercel&logoColor=white" alt="Live SiteScope"/></a>
+  <a href="https://github.com/REBCDR07/sitesight-audit"><img src="https://img.shields.io/badge/Code-17261F?style=for-the-badge&logo=github&logoColor=0AFF8D" alt="Code SiteScope"/></a>
+</p>
+
+<a href="https://www.thekof.site">
+  <img src="./assets/projects/portfolio-the-kof.svg" width="100%" alt="Portfolio The KOF"/>
+</a>
+
+<p align="center">
+  <a href="https://www.thekof.site"><img src="https://img.shields.io/badge/Live-179B53?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio The KOF"/></a>
+  <a href="https://github.com/REBCDR07/elton_dev"><img src="https://img.shields.io/badge/Code-17261F?style=for-the-badge&logo=github&logoColor=0AFF8D" alt="Code Portfolio The KOF"/></a>
+</p>
+
+<a href="https://esm-beninbj.vercel.app/">
+  <img src="./assets/projects/esm-benin-university.svg" width="100%" alt="ESM-BENIN University"/>
+</a>
+
+<p align="center">
+  <a href="https://esm-beninbj.vercel.app/"><img src="https://img.shields.io/badge/Live-179B53?style=for-the-badge&logo=vercel&logoColor=white" alt="Live ESM-BENIN University"/></a>
+  <a href="https://github.com/REBCDR07/esmbenin"><img src="https://img.shields.io/badge/Code-17261F?style=for-the-badge&logo=github&logoColor=0AFF8D" alt="Code ESM-BENIN University"/></a>
+</p>
+
+<a href="https://voyage-bj.vercel.app/">
+  <img src="./assets/projects/voyagebj.svg" width="100%" alt="VoyageBj"/>
+</a>
+
+<p align="center">
+  <a href="https://voyage-bj.vercel.app/"><img src="https://img.shields.io/badge/Live-179B53?style=for-the-badge&logo=vercel&logoColor=white" alt="Live VoyageBj"/></a>
+  <a href="https://github.com/REBCDR07/VoyageBj"><img src="https://img.shields.io/badge/Code-17261F?style=for-the-badge&logo=github&logoColor=0AFF8D" alt="Code VoyageBj"/></a>
+</p>
+
+<a href="https://skillflash-tau.vercel.app/">
+  <img src="./assets/projects/skillflash-academy.svg" width="100%" alt="SkillFlash Academy"/>
+</a>
+
+<p align="center">
+  <a href="https://skillflash-tau.vercel.app/"><img src="https://img.shields.io/badge/Live-179B53?style=for-the-badge&logo=vercel&logoColor=white" alt="Live SkillFlash Academy"/></a>
+</p>
+
+<a href="https://pypi.org/project/fingerlock/">
+  <img src="./assets/projects/fingerlock.svg" width="100%" alt="FingerLock"/>
+</a>
+
+<p align="center">
+  <a href="https://pypi.org/project/fingerlock/"><img src="https://img.shields.io/badge/PyPI-179B53?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI FingerLock"/></a>
+  <a href="https://github.com/REBCDR07/fingerlock"><img src="https://img.shields.io/badge/Code-17261F?style=for-the-badge&logo=github&logoColor=0AFF8D" alt="Code FingerLock"/></a>
+</p>
+
+<a href="https://vald-s.vercel.app/">
+  <img src="./assets/projects/techchallenge-14-0.svg" width="100%" alt="TechChallenge 14.0"/>
+</a>
+
+<p align="center">
+  <a href="https://vald-s.vercel.app/"><img src="https://img.shields.io/badge/Live-179B53?style=for-the-badge&logo=vercel&logoColor=white" alt="Live TechChallenge 14.0"/></a>
+  <a href="https://github.com/REBCDR07/TechChallenge14.0"><img src="https://img.shields.io/badge/Code-17261F?style=for-the-badge&logo=github&logoColor=0AFF8D" alt="Code TechChallenge 14.0"/></a>
+</p>
+
+<a href="https://github.com/REBCDR07/remind-me">
+  <img src="./assets/projects/remindme.svg" width="100%" alt="RemindMe"/>
+</a>
+
+<p align="center">
+  <a href="https://github.com/REBCDR07/remind-me"><img src="https://img.shields.io/badge/Code-17261F?style=for-the-badge&logo=github&logoColor=0AFF8D" alt="Code RemindMe"/></a>
+</p>
+
+<a href="https://github.com/REBCDR07/easter-clicker">
+  <img src="./assets/projects/putaclic-special-paques.svg" width="100%" alt="PutaClic - Special Paques"/>
+</a>
+
+<p align="center">
+  <a href="https://github.com/REBCDR07/easter-clicker"><img src="https://img.shields.io/badge/Code-17261F?style=for-the-badge&logo=github&logoColor=0AFF8D" alt="Code PutaClic - Special Paques"/></a>
+</p>
 
 ---
 
@@ -306,5 +300,5 @@ const theKof: FrontendDeveloper = {
 <br/>
 
 <a href="https://www.thekof.site">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22AA7F,50:179B53,100:0A150F&height=120&section=footer&text=Des%20interfaces%20nettes%20pour%20des%20produits%20qui%20avancent.&fontSize=16&fontColor=F0F9F3&fontAlignY=65" width="100%" alt="The KOF footer"/>
+  <img src="./assets/thekof-footer.svg" width="100%" alt="The KOF footer"/>
 </a>
