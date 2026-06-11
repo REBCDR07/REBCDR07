@@ -12,7 +12,7 @@
 
 <br/>
 
-![Projects](https://img.shields.io/badge/Projets-10%2B-1AD166?style=flat-square&logo=rocket&logoColor=white)
+![Projects](https://img.shields.io/badge/Projets-13%2B-1AD166?style=flat-square&logo=rocket&logoColor=white)
 ![Experience](https://img.shields.io/badge/Exp%C3%A9rience-3%2B_ans-22AA7F?style=flat-square&logo=codeforces&logoColor=white)
 ![Remote](https://img.shields.io/badge/Remote-Disponible-0AFF8D?style=flat-square&logo=internetcomputer&logoColor=0A150F)
 ![2026](https://img.shields.io/badge/2026-1%2C229_contributions-179B53?style=flat-square&logo=github&logoColor=white)
@@ -25,43 +25,9 @@
 
 ## `$ whoami`
 
-```typescript
-const theKof: FrontendDeveloper = {
-  nom: "Elton Ronald Bill HOUNNOU",
-  alias: "The KOF",
-  localisation: "Abomey-Calavi, Benin — GMT+1",
-  tagline: "Des interfaces nettes pour des produits qui avancent.",
-  focus: [
-    "Frontend engineering — React, TypeScript, UI systems",
-    "SaaS dashboards — Supabase, analytics, admin panels",
-    "AI product interfaces — chatbots, assistants, automation",
-    "Web performance — SEO technique, responsive design, DX",
-  ],
-  formation: "Systemes Informatiques et Logiciels — ESM-BENIN",
-  stack: ["React", "TypeScript", "Supabase", "Tailwind CSS", "Vite", "Framer Motion"],
-  valeurs: ["clarte", "performance", "rigueur", "experience utilisateur"],
-  portfolio: "https://www.thekof.site",
-  disponible: true,
-};
-```
-
----
-
-## Identite Visuelle
-
 <div align="center">
 
-<img src="./assets/thekof-fonts.svg" width="100%" alt="Polices The KOF: Trench Slab, Gambarino, Kaushan Script"/>
-
-<br/><br/>
-
-| Token | Usage | Couleur |
-|:---:|:---|:---:|
-| `#0A150F` | Fond sombre du portfolio | ![#0A150F](https://placehold.co/90x24/0A150F/F0F9F3?text=+) |
-| `#179B53` | Vert principal The KOF | ![#179B53](https://placehold.co/90x24/179B53/ffffff?text=+) |
-| `#1AD166` | Vert primaire dark mode | ![#1AD166](https://placehold.co/90x24/1AD166/0A150F?text=+) |
-| `#22AA7F` | Accent interface | ![#22AA7F](https://placehold.co/90x24/22AA7F/ffffff?text=+) |
-| `#0AFF8D` | Glow neon | ![#0AFF8D](https://placehold.co/90x24/0AFF8D/0A150F?text=+) |
+<img src="./assets/whoami-card.svg" width="100%" alt="Interface profil The KOF avec photo GitHub"/>
 
 </div>
 
@@ -71,41 +37,7 @@ const theKof: FrontendDeveloper = {
 
 <div align="center">
 
-**Frontend & Experience**
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vue,vite,tailwind,html,css" alt="Frontend stack" />
-
-<br/><br/>
-
-![React](https://img.shields.io/badge/React-17261F?style=for-the-badge&logo=react&logoColor=0AFF8D)
-![TypeScript](https://img.shields.io/badge/TypeScript-17261F?style=for-the-badge&logo=typescript&logoColor=1AD166)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-17261F?style=for-the-badge&logo=tailwindcss&logoColor=22AA7F)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-17261F?style=for-the-badge&logo=framer&logoColor=0AFF8D)
-![Vite](https://img.shields.io/badge/Vite-17261F?style=for-the-badge&logo=vite&logoColor=1AD166)
-
-**Backend, Data & Cloud**
-
-<img src="https://skillicons.dev/icons?i=supabase,firebase,vercel,postgres,docker,nodejs" alt="Backend and cloud stack" />
-
-<br/><br/>
-
-![Supabase](https://img.shields.io/badge/Supabase-17261F?style=for-the-badge&logo=supabase&logoColor=1AD166)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17261F?style=for-the-badge&logo=postgresql&logoColor=22AA7F)
-![Vercel](https://img.shields.io/badge/Vercel-17261F?style=for-the-badge&logo=vercel&logoColor=F0F9F3)
-![Firebase](https://img.shields.io/badge/Firebase-17261F?style=for-the-badge&logo=firebase&logoColor=0AFF8D)
-![Docker](https://img.shields.io/badge/Docker-17261F?style=for-the-badge&logo=docker&logoColor=22AA7F)
-
-**Languages, Tools & Product**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,figma" alt="Tools stack" />
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-17261F?style=for-the-badge&logo=python&logoColor=1AD166)
-![C++](https://img.shields.io/badge/C%2B%2B-17261F?style=for-the-badge&logo=cplusplus&logoColor=22AA7F)
-![Git](https://img.shields.io/badge/Git-17261F?style=for-the-badge&logo=git&logoColor=0AFF8D)
-![GitHub](https://img.shields.io/badge/GitHub-17261F?style=for-the-badge&logo=github&logoColor=F0F9F3)
-![Linux](https://img.shields.io/badge/Linux-17261F?style=for-the-badge&logo=linux&logoColor=1AD166)
+<img src="./assets/stack-carousel.svg" width="100%" alt="Carousel de stack technique The KOF"/>
 
 </div>
 
@@ -118,6 +50,20 @@ const theKof: FrontendDeveloper = {
 > Chaque carte embarque une image du projet, une description courte, le statut, la categorie, la stack et les liens utiles. Les visuels utilisent les polices du portfolio: Trench Slab pour les titres, Gambarino pour les textes.
 
 </div>
+
+<a href="https://www.npmjs.com/package/@eltkof7/webimg-cli">
+  <img src="./assets/projects/webimg-cli.svg" width="100%" alt="WEBIMG-CLI"/>
+</a>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@eltkof7/webimg-cli"><img src="https://img.shields.io/badge/npm-@eltkof7%2Fwebimg--cli-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm WEBIMG-CLI"/></a>
+  <a href="https://github.com/REBCDR07/webimg-cli"><img src="https://img.shields.io/badge/Code-17261F?style=for-the-badge&logo=github&logoColor=0AFF8D" alt="Code WEBIMG-CLI"/></a>
+</p>
+
+<p align="center">
+  <code>npm install -g @eltkof7/webimg-cli</code><br/>
+  <code>webimg run -i ./src/assets -o ./public/img -f webp,avif -q 80 -r</code>
+</p>
 
 <a href="https://my-africhat.vercel.app/">
   <img src="./assets/projects/my-africhat.svg" width="100%" alt="My AfriChat"/>
@@ -228,20 +174,9 @@ const theKof: FrontendDeveloper = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=REBCDR07&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A150F&title_color=1AD166&icon_color=0AFF8D&text_color=F0F9F3&ring_color=22AA7F" alt="GitHub stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REBCDR07&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0A150F&title_color=1AD166&text_color=F0F9F3" alt="Top languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=REBCDR07&theme=dark&hide_border=true&background=0A150F&stroke=1AD166&ring=1AD166&fire=0AFF8D&currStreakLabel=F0F9F3&sideLabels=F0F9F3&dates=8AA897&currStreakNum=1AD166&sideNums=1AD166" alt="GitHub streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=REBCDR07&theme=github-compact&hide_border=true&bg_color=0A150F&color=1AD166&line=22AA7F&point=0AFF8D&area=true&area_color=179B53" width="100%" alt="GitHub activity graph"/>
+<img src="./assets/github-stats-cards.svg" width="100%" alt="Cartes GitHub Stats The KOF"/>
+<br/><br/>
+<img src="./assets/github-activity.svg" width="100%" alt="Calendrier des contributions GitHub The KOF"/>
 
 </div>
 
@@ -251,9 +186,7 @@ const theKof: FrontendDeveloper = {
 
 <div align="center">
 
-| Localisation | Timezone | Formation | Disponibilite |
-|:---:|:---:|:---:|:---:|
-| Abomey-Calavi, Benin | GMT+1 | Systemes Informatiques — ESM-BENIN | Freelance · Collaboration · Remote |
+<img src="./assets/journey-cards.svg" width="100%" alt="Parcours et disponibilite The KOF"/>
 
 </div>
 

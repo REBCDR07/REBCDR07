@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
-  <title id="title">The KOF footer</title>
-  <desc id="desc">Je transforme vos idees en produits digitaux, interfaces premium et experiences web.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Parcours The KOF</title>
+  <desc id="desc">Parcours academique, experience et disponibilite de Elton Ronald Bill HOUNNOU.</desc>
 
   <defs>
     <style>
@@ -28,14 +28,51 @@
 
   </defs>
 
-  <linearGradient id="footerBg" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#22AA7F"/><stop offset="0.48" stop-color="#179B53"/><stop offset="1" stop-color="#0A150F"/>
-  </linearGradient>
-  <rect width="1200" height="210" fill="url(#footerBg)"/>
-  <rect width="1200" height="210" fill="url(#grid)"/>
-  <text x="60" y="58" font-family="Kaushan Script" font-size="46" fill="#0AFF8D">The KOF</text>
-  <text x="60" y="108" font-family="Trench Slab" font-size="29" fill="#F0F9F3">Je transforme vos idees en produits digitaux,</text>
-  <text x="60" y="143" font-family="Trench Slab" font-size="29" fill="#F0F9F3">interfaces premium et experiences web.</text>
-  <text x="60" y="176" font-family="Gambarino" font-size="19" fill="#DDFBE8" opacity="0.86">Qui captent, convertissent et evoluent vite.</text>
-  <text x="952" y="62" font-family="Gambarino" font-size="18" fill="#DDFBE8" opacity="0.88">www.thekof.site</text>
+  <rect x="2" y="2" width="1196" height="556" rx="30" fill="url(#panel)" stroke="#179B53" stroke-width="3"/>
+  <rect x="2" y="2" width="1196" height="556" rx="30" fill="url(#glow)"/>
+  <rect x="2" y="2" width="1196" height="556" rx="30" fill="url(#grid)"/>
+  <text x="52" y="70" font-family="Gambarino" font-size="18" fill="#1AD166">Parcours &amp; disponibilite</text>
+  <text x="52" y="122" font-family="Trench Slab" font-size="52" fill="#F0F9F3">Construire, apprendre, livrer</text>
+  <text x="900" y="82" font-family="Kaushan Script" font-size="42" fill="#1AD166">The KOF</text>
+  <text x="52" y="158" font-family="Gambarino" font-size="20" fill="#8AA897">Abomey-Calavi, Benin · GMT+1 · Freelance, collaboration et remote.</text>
+  <rect x="52" y="204" width="530" height="142" rx="20" fill="#0F1D16" stroke="#22AA7F" stroke-opacity="0.72"/>
+  <circle cx="104" cy="256" r="28" fill="#13281D" stroke="#0AFF8D" stroke-opacity="0.55"/>
+  <path d="M24 14l-20-8 20-8 20 8-20 8zm0 4l14-5.6V25c0 3-6.3 7-14 7S10 28 10 25V12.4L24 18z" transform="translate(80 232) scale(0.58)" fill="none" stroke="#0AFF8D" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="150" y="238" font-family="Gambarino" font-size="15" fill="#1AD166">Formation · 2023 - present </text>
+  <text x="150" y="272" font-family="Trench Slab" font-size="25" fill="#F0F9F3">Systèmes Informatiques et Logiciels</text>
+  <text x="150" y="300" font-family="Gambarino" font-size="17" fill="#22AA7F">ESM-BENIN</text>
+<text x="150" y="326" font-family="Gambarino" font-size="15" fill="#8AA897">
+<tspan x="150" dy="0">Base academique en developpement logiciel, reseaux et</tspan>
+<tspan x="150" dy="18">conception de solutions web.</tspan>
+</text>
+  <rect x="612" y="204" width="530" height="142" rx="20" fill="#0F1D16" stroke="#22AA7F" stroke-opacity="0.72"/>
+  <circle cx="664" cy="256" r="28" fill="#13281D" stroke="#0AFF8D" stroke-opacity="0.55"/>
+  <path d="M12 14h24v22H12V14zm6 0V9h12v5M8 20h32M18 26h12" transform="translate(640 232) scale(0.58)" fill="none" stroke="#0AFF8D" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="710" y="238" font-family="Gambarino" font-size="15" fill="#1AD166">Experience · Fev 2026 - Mai 2026 </text>
+  <text x="710" y="272" font-family="Trench Slab" font-size="25" fill="#F0F9F3">Stagiaire Developpement Web</text>
+  <text x="710" y="300" font-family="Gambarino" font-size="17" fill="#22AA7F">Espoir Plus Technologie</text>
+<text x="710" y="326" font-family="Gambarino" font-size="15" fill="#8AA897">
+<tspan x="710" dy="0">Stage termine en mai: integration web, interfaces,</tspan>
+<tspan x="710" dy="18">logique metier et amelioration produit.</tspan>
+</text>
+  <rect x="52" y="374" width="530" height="142" rx="20" fill="#0F1D16" stroke="#22AA7F" stroke-opacity="0.72"/>
+  <circle cx="104" cy="426" r="28" fill="#13281D" stroke="#0AFF8D" stroke-opacity="0.55"/>
+  <path d="M24 8a16 16 0 1016 16A16 16 0 0024 8zm-6 17l4 4 8-10M12 24h6M30 24h6" transform="translate(80 402) scale(0.58)" fill="none" stroke="#0AFF8D" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="150" y="408" font-family="Gambarino" font-size="15" fill="#1AD166">Leadership · Fev 2026 - Mai 2026 </text>
+  <text x="150" y="442" font-family="Trench Slab" font-size="25" fill="#F0F9F3">Social Media Lead</text>
+  <text x="150" y="470" font-family="Gambarino" font-size="17" fill="#22AA7F">AWS Cloud Club - IMeN</text>
+<text x="150" y="496" font-family="Gambarino" font-size="15" fill="#8AA897">
+<tspan x="150" dy="0">Communication technique, presence digitale et mise en</tspan>
+<tspan x="150" dy="18">valeur des activites cloud et tech.</tspan>
+</text>
+  <rect x="612" y="374" width="530" height="142" rx="20" fill="#0F1D16" stroke="#22AA7F" stroke-opacity="0.72"/>
+  <circle cx="664" cy="426" r="28" fill="#13281D" stroke="#0AFF8D" stroke-opacity="0.55"/>
+  <path d="M16 18l-8 6 8 6M32 18l8 6-8 6M28 14l-8 20" transform="translate(640 402) scale(0.58)" fill="none" stroke="#0AFF8D" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="710" y="408" font-family="Gambarino" font-size="15" fill="#1AD166">Freelance · 2023 - present </text>
+  <text x="710" y="442" font-family="Trench Slab" font-size="25" fill="#F0F9F3">Frontend Developer</text>
+  <text x="710" y="470" font-family="Gambarino" font-size="17" fill="#22AA7F">The KOF Studio</text>
+<text x="710" y="496" font-family="Gambarino" font-size="15" fill="#8AA897">
+<tspan x="710" dy="0">Portfolios, SaaS, dashboards, assistants IA et</tspan>
+<tspan x="710" dy="18">experiences web rapides pour clients et projets perso.</tspan>
+</text>
 </svg>
