@@ -34,10 +34,10 @@
   <text x="52" y="70" font-family="Gambarino" font-size="18" fill="#1AD166">Activite open source</text>
   <text x="52" y="122" font-family="Trench Slab" font-size="52" fill="#F0F9F3">Contributions GitHub</text>
   <text x="930" y="78" font-family="Kaushan Script" font-size="42" fill="#1AD166">The KOF</text>
-  <text x="52" y="158" font-family="Gambarino" font-size="20" fill="#8AA897">1 516 contributions depuis 2025, avec les vrais jours et niveaux du calendrier GitHub.</text>
+  <text x="52" y="158" font-family="Gambarino" font-size="20" fill="#8AA897">1 885 contributions depuis 2025, avec le total 2026 mis a jour.</text>
   <rect x="52" y="190" width="238" height="96" rx="18" fill="#0F1D16" stroke="#22AA7F" stroke-opacity="0.75"/>
   <text x="76" y="228" font-family="Gambarino" font-size="16" fill="#8AA897">2026</text>
-  <text x="76" y="264" font-family="Trench Slab" font-size="36" fill="#0AFF8D">1 229</text>
+  <text x="76" y="264" font-family="Trench Slab" font-size="36" fill="#0AFF8D">1 598</text>
   <text x="76" y="280" font-family="Gambarino" font-size="13" fill="#8AA897">annee la plus active</text>
   <rect x="312" y="190" width="238" height="96" rx="18" fill="#0F1D16" stroke="#22AA7F" stroke-opacity="0.75"/>
   <text x="336" y="228" font-family="Gambarino" font-size="16" fill="#8AA897">2025</text>
@@ -47,7 +47,7 @@
   <text x="770" y="268" font-family="Gambarino" font-size="18" fill="#1AD166">github.com/REBCDR07</text>
 <g transform="translate(52 330)">
 <text x="0" y="0" font-family="Trench Slab" font-size="30" fill="#F0F9F3">2026</text>
-<text x="92" y="0" font-family="Gambarino" font-size="18" fill="#8AA897">1 229 contributions</text>
+<text x="92" y="0" font-family="Gambarino" font-size="18" fill="#8AA897">1 598 contributions</text>
 <text x="0" y="32" font-family="Gambarino" font-size="13" fill="#1AD166">Donnees reprises depuis le calendrier GitHub public</text>
 <text x="58" y="56" font-family="Gambarino" font-size="11" fill="#8AA897">Jan</text>
 <text x="123" y="56" font-family="Gambarino" font-size="11" fill="#8AA897">Fev</text>

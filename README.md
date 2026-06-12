@@ -15,7 +15,7 @@
 ![Projects](https://img.shields.io/badge/Projets-13%2B-1AD166?style=flat-square&logo=rocket&logoColor=white)
 ![Experience](https://img.shields.io/badge/Exp%C3%A9rience-3%2B_ans-22AA7F?style=flat-square&logo=codeforces&logoColor=white)
 ![Remote](https://img.shields.io/badge/Remote-Disponible-0AFF8D?style=flat-square&logo=internetcomputer&logoColor=0A150F)
-![2026](https://img.shields.io/badge/2026-1%2C229_contributions-179B53?style=flat-square&logo=github&logoColor=white)
+![2026](https://img.shields.io/badge/2026-1%2C598_contributions-179B53?style=flat-square&logo=github&logoColor=white)
 ![2025](https://img.shields.io/badge/2025-287_contributions-22AA7F?style=flat-square&logo=github&logoColor=white)
 ![Visitors](https://komarev.com/ghpvc/?username=REBCDR07&label=Visites&color=179B53&style=flat-square)
 
