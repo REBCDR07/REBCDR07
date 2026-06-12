@@ -176,6 +176,8 @@
 
 <img src="./assets/github-stats-cards.svg" width="100%" alt="Cartes GitHub Stats The KOF"/>
 <br/><br/>
+<img src="./assets/github-insights.svg" width="100%" alt="Pourcentage des langages, PR et forks GitHub The KOF"/>
+<br/><br/>
 <img src="./assets/github-activity.svg" width="100%" alt="Calendrier des contributions GitHub The KOF"/>
 
 </div>
